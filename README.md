@@ -50,12 +50,12 @@
 - Статистика и графики
 - Реализация поиска счетов/покупок
 
-## Демо
-
-<p align="center">
-<img src="Demo.png" width="80%"></p>
-
 ## Наша команда - **CringeTeam**
 
 <p align="center">
 <img src="Team.png" width="80%"></p>
+
+## Демо
+
+<p align="center">
+<img src="Demo.png" width="80%"></p>
