@@ -58,4 +58,6 @@
 ## Демо
 
 <p align="center">
-<img src="Demo.png" width="80%"></p>
+<img src="Demo.png" width="30%" style="float:left;">
+<img src="Demo.png" width="30%" style="float:left;">
+</p>
