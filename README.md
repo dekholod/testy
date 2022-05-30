@@ -60,20 +60,20 @@
 ### Покупки
 
 <p align="center">
-<img src="Demo.png" width="45%" style="float:left;">
-<img src="Demo.png" width="45%" style="float:left;">
+<img src="ReadMeAssets/Buy1.png" width="45%" style="float:left;">
+<img src="ReadMeAssets/Buy2.png" width="45%" style="float:left;">
 </p>
 
 ### Долги
 
 <p align="center">
-<img src="Demo.png" width="45%" style="float:left;">
-<img src="Demo.png" width="45%" style="float:left;">
+<img src="ReadMeAssets/Debt1.png" width="45%" style="float:left;">
+<img src="ReadMeAssets/Debt2.png" width="45%" style="float:left;">
 </p>
 
 ### Настройки
 
 <p align="center">
-<img src="Demo.png" width="45%" style="float:left;">
-<img src="Demo.png" width="45%" style="float:left;">
+<img src="ReadMeAssets/Settings1.png" width="45%" style="float:left;">
+<img src="ReadMeAssets/Settings2.png" width="45%" style="float:left;">
 </p>
